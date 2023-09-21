@@ -1,0 +1,15 @@
+/* style.css */
+
+/* Mewarnai tombol */
+button {
+    background-color: blue; /* Ganti warna latar belakang sesuai preferensi Anda */
+    color: white; /* Ganti warna teks sesuai preferensi Anda */
+    padding: 10px 20px; /* Sesuaikan ukuran padding sesuai preferensi Anda */
+    border: none; /* Menghilangkan garis tepi tombol */
+    cursor: pointer; /* Menampilkan kursor saat mengarahkan ke tombol */
+ }
+ 
+ /* Mengubah warna tombol saat kursor mengarah ke tombol */
+ button:hover {
+    background-color: darkblue; /* Ganti warna latar belakang saat hover sesuai preferensi Anda */
+ }
